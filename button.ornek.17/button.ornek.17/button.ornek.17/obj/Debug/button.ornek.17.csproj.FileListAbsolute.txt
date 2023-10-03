@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek.17.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek.17.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek._17.lblBlue.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek._17.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek.17.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek.17.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\bin\Debug\button.ornek.17.exe.config
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\bin\Debug\button.ornek.17.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\bin\Debug\button.ornek.17.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek.17.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.17\button.ornek.17\button.ornek.17\obj\Debug\button.ornek.17.pdb
